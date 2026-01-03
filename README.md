@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Arpan Chakraborty  
 
 **A passionate Java Backend Developer || Cloud Enthusiast || Tech Explorer from India**  
-📧 Email Me 👉 **chakrabortyarpan224@gmail.com** for Collaboration / Projects / Discussions 😊  
+📧 Email Me 👉 **chakrabortyarpan225@gmail.com** for Collaboration / Projects / Discussions 😊  
 
 - 🔭 **I’m currently working on:** Building Java-based backend applications & exploring Spring Boot  
 - 🌱 **I’m currently learning:** Advanced Java, Spring Boot, REST APIs, and Database Management  
