@@ -1,271 +1,134 @@
 <div align="center">
 
-# Welcome to My Digital Workspace
+# 👨‍💻 Arpan Chakraborty
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey!+I'm+Arpan+Chakraborty+%F0%9F%91%8B;Java+Backend+Developer+%E2%98%95;Cloud+%26+Microservices+Enthusiast+%E2%98%81%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArpanC6&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/ArpanC6?style=for-the-badge&color=00d9ff&labelColor=1a1a2e&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/ArpanC6?style=for-the-badge&color=00d9ff&labelColor=1a1a2e&logo=github" alt="Stars"/>
-</p>
-
-</div>
-
-
-## About Me - The Story Behind The Code
-
-```javascript
-const arpan = {
-    location: "📍 Kolkata, India (UTC +5:30)",
-    education: "🎓 B.Tech in Computer Science & Engineering",
-    identity: "💼 Java Backend Developer | ☁️ Cloud Explorer",
-    
-    currentMission: () => {
-        return [
-            "🔨 Architecting robust backend systems with Spring Boot",
-            "🌐 Exploring microservices and distributed systems",
-            "📊 Deep diving into database optimization & design",
-            "🤝 Contributing to open-source projects"
-        ];
-    },
-    
-    learningPath: {
-        mastering: ["Spring Framework Ecosystem", "RESTful API Design", "System Design Patterns"],
-        exploring: ["Apache Kafka", "Docker & Kubernetes", "AWS Cloud Services"],
-        nextGoals: ["Microservices Architecture", "Event-Driven Systems", "DevOps Practices"]
-    },
-    
-    codePhilosophy: "Clean code is not written by following rules. It's written with passion ✨",
-    
-    beyondCode: () => {
-        return "When not coding, you'll find me debugging life's mysteries 🔍";
-    },
-    
-    collaborate: {
-        interestedIn: ["Backend APIs", "System Design Projects", "Open Source Contributions"],
-        lookingFor: "Mentorship in Microservices & Cloud Architecture",
-        reachOut: "Always open for tech discussions and collaborations!"
-    }
-};
-
-console.log(arpan.currentMission());
-```
-
-<div align="center">
-
-### 🤝 Let's Connect & Build Together
-
-[![Email](https://img.shields.io/badge/Email_Me-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:chakrabortyarpan225@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/arpan-chakraborty-63251227b/)
-[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-00D9FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e)](https://www.instagram.com/__a.r.p.a.n___/?hl=en)
-[![Facebook](https://img.shields.io/badge/Facebook_Profile-00D9FF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a2e)](https://www.facebook.com/profile.php?id=100027464049769)
-[![YouTube](https://img.shields.io/badge/YouTube_Channel-00D9FF?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e)](https://www.youtube.com/@arpantabla4994)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a2e)](https://arpanc.netlify.app)
-
-</div>
-
-
-## Technology Arsenal
-
-<div align="center">
-
-### Core Languages & Frameworks
-
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-        <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-        <br>C
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-        <br>CSS3
-    </td>
-</tr>
-</table>
-
-### Database & ORM
-
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate" />
-        <br>Hibernate
-    </td>
-</tr>
-</table>
-
-### Tools & Technologies
-
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
-        <br>Maven
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-        <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
-        <br>Kafka
-    </td>
-</tr>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-        <br>Netlify
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-        <br>Vercel
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
-        <br>IntelliJ
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
-    </td>
-</tr>
-</table>
-
-</div>
-
-
-## GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ArpanC6&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ArpanC6&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Top Contributed Repo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Java+Backend+Developer+%7C+Cloud+Enthusiast;Building+Scalable+Systems+with+Spring+Boot;Passionate+About+Clean+Code+%26+Architecture" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&custom_title=Contribution%20Activity%20Timeline&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="98%" />
+
+### 💼 Java Backend Developer | ☁️ Cloud Explorer | 🎓 B.Tech CSE
+
+📍 **Kolkata, India** • ⏰ **UTC +5:30**
+
 </div>
 
 ---
 
-## 🏆 Achievement Showcase
+## 🚀 What I Do
+
+I specialize in building **robust backend systems** using Java and Spring Boot. My focus is on creating scalable, maintainable, and efficient server-side applications that solve real-world problems.
+
+**Current Mission:**
+- 🔨 Architecting enterprise-grade backend systems
+- 🌐 Exploring microservices architecture and distributed systems
+- 📊 Optimizing database performance and designing efficient schemas
+- 🤝 Contributing to open-source projects and learning from the community
+
+**Learning Journey:**
+- 🎯 **Mastering:** Spring Framework, RESTful API Design, System Architecture
+- 🔍 **Exploring:** Apache Kafka, Docker & Kubernetes, AWS Cloud Services
+- 🎓 **Next Goals:** Event-Driven Architecture, Advanced Microservices Patterns
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakrabortyarpan225@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-chakraborty-63251227b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__a.r.p.a.n___/?hl=en)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027464049769)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@arpantabla4994)
+[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://arpanc.netlify.app)
+
 </div>
 
+---
 
-### Featured Projects
+## 🛠️ Technology Stack
 
 <div align="center">
 
-<a href="https://github.com/ArpanC6/ArpanC6">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArpanC6&repo=ArpanC6&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+### Languages
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+### Backend & Frameworks
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+
+### Databases
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+### Tools & DevOps
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+### IDEs
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/ArpanC6">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9"/>
 </a>
 
-<a href="https://github.com/ArpanC6/Calculator-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArpanC6&repo=Calculator-Project&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpanC6&theme=algolia&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&custom_title=Contribution%20Graph&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
+---
 
-## Current Focus Areas
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Backend Development))
-    Spring Ecosystem
-      Spring Boot
-      Spring Security
-      Spring Data JPA
-    Architecture
-      Microservices
-      RESTful APIs
-      System Design
-    Databases
-      MySQL Optimization
-      PostgreSQL
-      Query Performance
-    DevOps & Cloud
-      AWS Services
-      Docker Basics
-      CI/CD Pipelines
-```
-
-</div>
-
-
-## What Drives Me
+## 🎯 Focus Areas
 
 <div align="center">
-
-> **"The best way to predict the future is to invent it."**
-> 
-> I believe in continuous learning and building solutions that make a difference.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Professional Goals
-- Master Spring Boot ecosystem
-- Build production-ready microservices
-- Contribute to major open-source projects
-- Share knowledge through blogs & tutorials
+### 🏗️ Backend Development
+- Spring Boot Ecosystem
+- RESTful API Design
+- Microservices Architecture
+- Database Design & Optimization
+- System Design Patterns
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Learning Journey
-- Advanced System Design patterns
-- Cloud-native application development
-- Performance optimization techniques
-- Best practices in software architecture
+### ☁️ Cloud & DevOps
+- AWS Cloud Services
+- Docker & Containerization
+- CI/CD Pipelines
+- Apache Kafka
+- Event-Driven Systems
 
 </td>
 </tr>
@@ -273,75 +136,148 @@ mindmap
 
 </div>
 
+---
 
-## Contribution Insights
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/ArpanC6/ArpanC6/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArpanC6&theme=radical" alt="Profile Summary" width="98%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
+---
 
-## 🎓 Certifications & Achievements
+## 📌 Featured Projects
 
 <div align="center">
 
-| 🏅 Achievement | 📅 Year | 🔗 Verify |
-|:---:|:---:|:---:|
-| B.Tech CSE | 2021-2025 | 🎓 In Progress |
-| GitHub Arctic Code Vault Contributor | 2024 | ✅ Verified |
-| Open Source Contributor | 2024 | 🌟 Active |
+<a href="https://github.com/ArpanC6/ArpanC6">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpanC6&repo=ArpanC6&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff" />
+</a>
+<a href="https://github.com/ArpanC6/Calculator-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpanC6&repo=Calculator-Project&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff" />
+</a>
 
 </div>
 
+---
 
-## Let's Collaborate!
+## 💡 Philosophy
 
 <div align="center">
 
-### I'm always excited to work on:
+> **"Clean code is not written by following rules. Clean code is written by following a set of disciplines, patterns, and practices that you learn through experience."**
 
-🔹 **Backend Development Projects** | 🔹 **API Design & Development** | 🔹 **Open Source Initiatives**
+I believe in:
+- 📝 Writing code that speaks for itself
+- 🔄 Continuous learning and improvement
+- 🤝 Sharing knowledge and helping others grow
+- 🎯 Building solutions that make a difference
 
-🔹 **System Architecture** | 🔹 **Database Optimization** | 🔹 **Tech Community Building**
+</div>
+
+---
+
+## 🎓 Education & Goals
+
+<div align="center">
+
+**Bachelor of Technology in Computer Science & Engineering**  
+*2021 - 2025*
+
+### Short-term Goals
+✅ Master Spring Boot and microservices  
+✅ Build production-ready applications  
+✅ Contribute to major open-source projects
+
+### Long-term Vision
+🎯 Become a Solutions Architect  
+🎯 Mentor aspiring developers  
+🎯 Build impactful software products
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArpanC6&theme=algolia" width="95%" alt="Profile Summary"/>
 
 <br>
 
-**📧 Reach me at:** [chakrabortyarpan225@gmail.com](mailto:chakrabortyarpan225@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArpanC6&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" alt="Wakatime Stats"/>
 
-**🌐 Visit my portfolio:** [arpanc.netlify.app](https://arpanc.netlify.app)
+</div>
+
+---
+
+## 🌟 Collaboration Interests
+
+<div align="center">
+
+I'm always excited to collaborate on:
+
+**🔹 Backend API Development** • **🔹 System Architecture Projects** • **🔹 Open Source Contributions**
+
+**🔹 Database Optimization** • **🔹 Cloud-Native Applications** • **🔹 Tech Community Building**
+
+</div>
+
+---
+
+## 💬 Let's Talk About
+
+<div align="center">
+
+💻 Java & Spring Boot Development  
+🏗️ System Design & Architecture  
+🗄️ Database Design & Optimization  
+☁️ Cloud Computing & AWS  
+📚 Tech Books & Learning Resources  
+🎯 Career Growth & Mentorship
+
+**Feel free to reach out for discussions, collaborations, or just a tech chat!**
+
+📧 **Email:** [chakrabortyarpan225@gmail.com](mailto:chakrabortyarpan225@gmail.com)  
+🌐 **Portfolio:** [arpanc.netlify.app](https://arpanc.netlify.app)
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+<div align="center">
+
+*Debugging is like being a detective in a crime movie where you're also the murderer! 🔍🐛*
+
+**When I'm not coding, you'll find me exploring new technologies, reading tech blogs, or debugging life's mysteries!**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" alt="Dev Quote" />
+
+<br><br>
+
+### Thanks for visiting! 🙏
+
+**If you find my work interesting:**
+
+⭐ **Star my repositories** • 🤝 **Let's connect** • 💬 **Open for collaborations**
 
 <br>
 
-### Fun Fact About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=100&section=footer&text=Happy%20Coding!&fontSize=28&fontColor=00f5ff&animation=fadeIn&fontAlignY=70" width="100%"/>
 
-*I debug with patience, code with passion, and believe that every bug is just an undocumented feature waiting to be discovered! 🐛✨*
+**Made with ❤️ and ☕ by Arpan Chakraborty**
 
-</div>
-
-
-<div align="center">
-
-### A Quote I Live By
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Quote" />
-
-</div>
-
-
-<div align="center">
-
-## Thanks for stopping by!
-
-**If you like what you see, feel free to:**
-
-⭐ Star my repositories | 🤝 Connect with me | 💬 Reach out for collaborations
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=00D9FF&animation=twinkling&fontAlignY=70" width="100%" />
-
-**Made with ❤️ by Arpan Chakraborty**
+![](https://komarev.com/ghpvc/?username=ArpanC6&style=flat-square&color=00f5ff)
 
 </div>
