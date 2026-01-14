@@ -1,10 +1,6 @@
 <div align="center">
 
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=50&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=80&lines=Arpan+Chakraborty" alt="Name" />
-
-</div>
 
 </div>
 
@@ -221,30 +217,27 @@ philosophy: |
 
 ---
 
-## 📊 GitHub Analytics & Performance
+## 📊 GitHub Performance Dashboard
 
 <div align="center">
 
-<a href="https://github.com/ArpanC6">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArpanC6&theme=tokyonight" width="98%" alt="Contribution Overview"/>
 
-<br><br>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ArpanC6&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="55%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ArpanC6&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
 
-<br><br>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Recent%20Activity" />
 
 </div>
 
 ---
 
 ## 🎯 Current Learning Path & Future Goals
-
-<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Learning Path">
 
@@ -273,8 +266,6 @@ philosophy: |
 </td>
 </tr>
 </table>
-
-</div>
 
 <br>
 
@@ -306,23 +297,6 @@ philosophy: |
 </td>
 </tr>
 </table>
-
----
-
-## 🏆 Featured Projects & Contributions
-
-<div align="center">
-
-### 📌 Pinned Repositories
-
-<a href="https://github.com/ArpanC6/ArpanC6">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArpanC6&repo=ArpanC6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
-</a>
-<a href="https://github.com/ArpanC6/Calculator-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArpanC6&repo=Calculator-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
-</a>
-
-</div>
 
 ---
 
@@ -372,97 +346,30 @@ philosophy: |
 
 ---
 
-## 🎓 Education & Certifications
+## 🏆 Featured Projects & Contributions
+
+<div align="center">
+
+### 📌 Pinned Repositories
+
+<a href="https://github.com/ArpanC6/ArpanC6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArpanC6&repo=ArpanC6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
+</a>
+<a href="https://github.com/ArpanC6/Calculator-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArpanC6&repo=Calculator-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
+</a>
+
+</div>
+
+---
+
+## 🎓 Education
 
 <div align="center">
 
 | 🎓 Degree | 🏛️ Institution | 📅 Duration | 📊 Status |
 |:----------|:---------------|:------------|:----------|
 | **B.Tech in Computer Science & Engineering** | Engineering College | 2021 - 2025 | 🎯 In Progress |
-
-### 🏅 Achievements & Recognition
-
-🏆 **GitHub Arctic Code Vault Contributor** - 2024  
-⭐ **Active Open Source Contributor** - 2024  
-💻 **23-Day GitHub Contribution Streak** - January 2025
-
-</div>
-
----
-
-## 💬 Areas of Collaboration
-
-<div align="center">
-
-### I'm passionate about collaborating on:
-
-<img src="https://img.shields.io/badge/🔹_Backend_API_Development-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🔹_Microservices_Architecture-4ECDC4?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🔹_System_Design_Projects-FF6B6B?style=for-the-badge&labelColor=1a1a2e" />
-
-<img src="https://img.shields.io/badge/🔹_Database_Optimization-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🔹_Open_Source_Contributions-4ECDC4?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🔹_Cloud_Native_Apps-FF6B6B?style=for-the-badge&labelColor=1a1a2e" />
-
-### Looking for help with:
-
-🤝 **Mentorship** in Advanced System Design & Microservices Architecture  
-🔍 **Code Reviews** and Best Practices in Enterprise Java  
-💡 **Insights** on Cloud Architecture Patterns
-
-</div>
-
----
-
-## 🎨 Coding Philosophy & Approach
-
-<div align="center">
-
-> ### "First, solve the problem. Then, write the code."
-> *— John Johnson*
-
-<br>
-
-<table>
-<tr>
-<td width="50%">
-
-### 💭 My Approach
-
-- **Write Clean Code**: Self-documenting and maintainable
-- **Test-Driven**: Write tests before implementation
-- **SOLID Principles**: Follow design patterns religiously
-- **Performance First**: Optimize for speed and efficiency
-- **Continuous Learning**: Stay updated with latest tech
-
-</td>
-<td width="50%">
-
-### 🌟 What I Value
-
-- **Code Quality** over quantity
-- **Team Collaboration** and knowledge sharing
-- **Problem-Solving** mindset
-- **Constructive Feedback** culture
-- **Work-Life Balance** for sustainable growth
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📚 Latest Blog Posts & Activities
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-📝 **Coming Soon**: Technical blog posts on Spring Boot, System Design, and Backend Architecture  
-🎥 **YouTube**: Coding tutorials and tech discussions at [@arpantabla4994](https://www.youtube.com/@arpantabla4994)  
-💼 **Portfolio**: Check out my projects at [arpanc.netlify.app](https://arpanc.netlify.app)
-<!-- BLOG-POST-LIST:END -->
 
 </div>
 
@@ -499,12 +406,6 @@ Whether you want to discuss **backend architecture**, **collaborate on open-sour
 ---
 
 <div align="center">
-
-### 📊 Profile Insights
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArpanC6&theme=tokyonight" width="98%" alt="Profile Summary"/>
-
-<br>
 
 ### 💭 Random Dev Quote
 
