@@ -227,7 +227,7 @@ public class Developer {
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.facebook.com/share/1ac1yn7zr6/" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100027464049769" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
