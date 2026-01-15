@@ -118,26 +118,47 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
+  GitHub Performance
+</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ArpanC6&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" />
-</div>
 
-<br>
+<table>
+<tr>
+<td width="50%" align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&ring_color=bf91f3" width="100%" />
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&custom_title=Contribution%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area_color=0D1117&area=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=6" width="100%" />
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ArpanC6&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffaa00&currStreakLabel=70a5fd&sideLabels=38bdae&currStreakNum=bf91f3&sideNums=38bdae" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArpanC6&theme=tokyonight&utcOffset=5.5" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+
 </div>
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32px" alt="GitHub"> 
+  Achievements
+</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=tokyonight&no-frame=true&no-bg=false&margin-w=3&margin-h=3&column=7&rank=-C,-?" width="100%" />
+
 </div>
 
 ---
