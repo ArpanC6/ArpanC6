@@ -1,152 +1,136 @@
 <div align="center">
-  
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Arpan+Chakraborty;Java+Backend+Developer;API+Architect+%7C+Cloud+Enthusiast" />
-</h1>
 
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arpan%20Chakraborty&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Java%20Backend%20Developer%20|%20API%20Architect%20|%20Cloud%20Enthusiast&descAlignY=55&descSize=20" />
+
+<!-- Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Microservices;Spring+Boot+%7C+Kafka+%7C+AWS;RESTful+API+Architecture;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<!-- Profile Views Counter with Snake Animation -->
+<img src="https://komarev.com/ghpvc/?username=ArpanC6&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+
+<br><br>
+
+<!-- Animated GIF -->
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ArpanC6&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
+</div>
+
+## 👨‍💻 About Me
+
+```java
+public class ArpanChakraborty implements BackendDeveloper {
+    
+    private final String role = "Java Backend Developer";
+    private final String location = "Airoli, Maharashtra, India";
+    private final String[] expertise = {
+        "Microservices Architecture",
+        "RESTful API Design", 
+        "Database Optimization",
+        "Cloud Solutions"
+    };
+    
+    @Override
+    public void currentlyWorking() {
+        System.out.println("🔭 Building enterprise-grade Spring Boot applications");
+        System.out.println("🌱 Mastering Kafka Streams & Event-Driven Architecture");
+        System.out.println("☁️ Exploring AWS Cloud Services & DevOps practices");
+    }
+    
+    @Override
+    public Map<String, String> getTechStack() {
+        return Map.of(
+            "Backend", "Java, Spring Boot, Hibernate, JPA",
+            "Messaging", "Apache Kafka, Redis",
+            "Database", "MySQL, PostgreSQL",
+            "Cloud", "AWS (EC2, S3, Lambda, RDS)",
+            "DevOps", "Docker, Jenkins, Git, Maven"
+        );
+    }
+}
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Backend & Frameworks
+<p>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=hibernate" width="65" height="65" alt="Hibernate" />
+  <img src="https://skillicons.dev/icons?i=kafka" width="65" height="65" alt="Kafka" />
+  <img src="https://skillicons.dev/icons?i=maven" width="65" height="65" alt="Maven" />
+</p>
+
+### Database Technologies
+<p>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=jenkins" width="65" height="65" alt="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="Nginx" />
+  <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+</p>
+
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+</p>
+
+### Additional Skills
+<p>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
+  <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
 </p>
 
 </div>
 
 ---
 
-## 🛠️ Technology Arsenal
+## 📊 GitHub Analytics
 
 <div align="center">
-
-### 💻 Languages & Frameworks
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=hibernate" width="65" height="65" alt="Hibernate" />
-      <br>Hibernate
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kafka" width="65" height="65" alt="Kafka" />
-      <br>Kafka
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=maven" width="65" height="65" alt="Maven" />
-      <br>Maven
-    </td>
-  </tr>
-</table>
-
-### 🎨 Frontend & Tools
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="IntelliJ IDEA" />
-      <br>IntelliJ IDEA
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
-      <br>GitHub
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="65" height="65" alt="Jenkins" />
-      <br>Jenkins
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="Nginx" />
-      <br>Nginx
-    </td>
-  </tr>
-</table>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArpanC6&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ArpanC6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Contribution Stats" />
+</div>
+
+<br>
+
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpanC6&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -155,36 +139,26 @@
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArpanC6&repo=Calculator-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/ArpanC6/Calculator-Project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArpanC6&repo=ArpanC6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/ArpanC6/ArpanC6)
+[![Calculator Project](https://github-readme-stats.vercel.app/api/pin/?username=ArpanC6&repo=Calculator-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/ArpanC6/Calculator-Project)
+[![Profile Repository](https://github-readme-stats.vercel.app/api/pin/?username=ArpanC6&repo=ArpanC6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/ArpanC6/ArpanC6)
 
 </div>
 
 ---
 
-## 🌟 What I'm Currently Doing
+## 🎯 Areas of Expertise
 
 <div align="center">
 
-```java
-public class ArpanChakraborty {
-    
-    private String currentFocus = "Building scalable microservices with Spring Boot";
-    private String[] learning = {"Advanced Spring Security", "Kafka Streams", "Cloud Architecture"};
-    private String[] hobbies = {"Coding", "Problem Solving", "Tech Blogging"};
-    
-    public void getCurrentStatus() {
-        System.out.println("🔭 Working on RESTful API projects");
-        System.out.println("🌱 Deepening Spring Boot & Microservices knowledge");
-        System.out.println("👯 Looking to collaborate on open-source Java projects");
-        System.out.println("💬 Ask me about Java, Spring Boot, APIs, Databases");
-    }
-    
-    public String getMotivation() {
-        return "Turning coffee into code, one commit at a time! ☕";
-    }
-}
-```
+| Domain | Technologies |
+|--------|-------------|
+| **Backend Development** | Java, Spring Boot, Spring Security, Spring Data JPA |
+| **Microservices** | Spring Cloud, Netflix OSS, API Gateway, Service Discovery |
+| **Message Queuing** | Apache Kafka, Redis Pub/Sub |
+| **Database Management** | MySQL, PostgreSQL, Hibernate ORM, Query Optimization |
+| **Cloud & DevOps** | AWS (EC2, S3, RDS, Lambda), Docker, Jenkins CI/CD |
+| **API Development** | RESTful APIs, Swagger/OpenAPI, Postman Testing |
+| **Version Control** | Git, GitHub, GitFlow Workflow |
 
 </div>
 
@@ -193,39 +167,74 @@ public class ArpanChakraborty {
 ## 📫 Connect With Me
 
 <div align="center">
-  
-<a href="mailto:chakrabortyarpan151@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://linkedin.com/in/arpan-chakraborty-63251227">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://arpanc.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://instagram.com/_a.r.p.a.n_">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://youtube.com/@arpantabla4994">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="https://facebook.com/share/174U3EPzvV">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakrabortyarpan151@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpan-chakraborty-63251227)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://arpanc.netlify.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_a.r.p.a.n_)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arpantabla4994)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/share/174U3EPzvV)
+
+<br>
+
+**📧 Email:** chakrabortyarpan151@gmail.com  
+**🌐 Portfolio:** [arpanc.netlify.app](https://arpanc.netlify.app)  
+**💼 LinkedIn:** [Arpan Chakraborty](https://linkedin.com/in/arpan-chakraborty-63251227)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
-</div>
 
-<div align="center">
+### 💡 Developer Quote
   
-### 💙 Made with passion by Arpan Chakraborty
-### ⭐ Star my repositories if you find them helpful!
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+<br><br>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArpanC6/ArpanC6/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArpanC6/ArpanC6/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArpanC6/ArpanC6/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
+
+### 📈 Productivity Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
+
+---
+
+### ⚡ Fun Fact
+
+```java
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+// Powered by ☕ Coffee & 💻 Passion
+```
+
+---
 
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-success?style=for-the-badge&logo=statuspal&logoColor=white" />
 
+### 💙 Thanks for visiting! Let's build something amazing together! 
+
+⭐ **Star my repositories if you find them helpful!**
+
+<br>
+
 </div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
