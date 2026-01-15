@@ -15,9 +15,6 @@
 
 <br><br>
 
-<!-- Animated GIF -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 </div>
 
 ## 👨‍💻 About Me
@@ -54,7 +51,7 @@ public class ArpanChakraborty implements BackendDeveloper {
 }
 ```
 
-<br clear="right"/>
+<br>
 
 ---
 
@@ -114,6 +111,8 @@ public class ArpanChakraborty implements BackendDeveloper {
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArpanC6&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
+
+<br>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
