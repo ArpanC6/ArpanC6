@@ -1,7 +1,11 @@
-# Hi there! 👋 I'm Arpan Chakraborty
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;API+Architect;Cloud+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+  
+# 👨‍💻 Arpan Chakraborty
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;API+Architect;Cloud+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 </div>
 
 <p align="center">
@@ -107,15 +111,11 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
       <br>GitHub
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
       <br>Linux
@@ -131,6 +131,8 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="Nginx" />
       <br>Nginx
+    </td>
+    <td align="center" width="96">
     </td>
     <td align="center" width="96">
     </td>
@@ -161,7 +163,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -221,14 +223,8 @@ public class ArpanChakraborty {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=72" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
-
----
 
 <div align="center">
   
