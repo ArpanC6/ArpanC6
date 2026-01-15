@@ -1,29 +1,16 @@
 <div align="center">
   
-# 👨‍💻 Arpan Chakraborty
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;API+Architect;Cloud+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Arpan+Chakraborty;Java+Backend+Developer;API+Architect+%7C+Cloud+Enthusiast" />
+</h1>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArpanC6&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ArpanC6?label=Followers&style=social" alt="GitHub Followers" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ArpanC6&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
 </p>
 
----
-
-## 🚀 Crafting High-Performance RESTful APIs
-
-> *"Code is poetry written in logic"* - Arpan Chakraborty
-
-💼 **Java Backend Developer in Progress** | Exploring Spring Boot, APIs & Databases  
-🎓 **B.Tech CSE Student**  
-📍 **Kolkata, India**  
-🌐 **Portfolio:** [arpanc.netlify.app](https://arpanc.netlify.app)  
-📧 **Email:** chakrabortyarpan151@gmail.com
+</div>
 
 ---
 
@@ -132,10 +119,6 @@
       <img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="Nginx" />
       <br>Nginx
     </td>
-    <td align="center" width="96">
-    </td>
-    <td align="center" width="96">
-    </td>
   </tr>
 </table>
 
@@ -163,7 +146,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -211,12 +194,24 @@ public class ArpanChakraborty {
 
 <div align="center">
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakrabortyarpan151@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpan-chakraborty-63251227)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arpanc.netlify.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_a.r.p.a.n_)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arpantabla4994)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/share/174U3EPzvV)
+<a href="mailto:chakrabortyarpan151@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://linkedin.com/in/arpan-chakraborty-63251227">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://arpanc.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://instagram.com/_a.r.p.a.n_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://youtube.com/@arpantabla4994">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://facebook.com/share/174U3EPzvV">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 
 </div>
 
