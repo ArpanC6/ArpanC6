@@ -120,13 +120,15 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&icon_color=00d9ff&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpanC6&theme=radical&hide_border=true&background=0d1117&stroke=ff006e&ring=ff006e&fire=ffaa00&currStreakLabel=ff006e&sideLabels=00d9ff&dates=c9d1d9" width="48%" />
+</p>
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&icon_color=00d9ff&text_color=c9d1d9) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ArpanC6&theme=radical&hide_border=true&background=0d1117&stroke=ff006e&ring=ff006e&fire=ffaa00&currStreakLabel=ff006e&sideLabels=00d9ff&dates=c9d1d9) |
-| --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&text_color=c9d1d9&langs_count=8) | ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&custom_title=Arpan%20Chakraborty's%20Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=ff006e&point=ffffff&area_color=0d1117&area=true&hide_border=true) |
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&text_color=c9d1d9&langs_count=8" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&custom_title=Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=ff006e&point=ffffff&area_color=0d1117&area=true&hide_border=true" width="48%" />
+</p>
 
 ---
 
