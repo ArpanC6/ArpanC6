@@ -1,26 +1,25 @@
-# 👋 Hi, I'm Soumyadeep Dey
+# Hi there! 👋 I'm Arpan Chakraborty
 
 <div align="center">
-  
-### 💻 Full Stack Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+scalable+applications;Exploring+cutting-edge+technologies;Always+learning%2C+always+growing)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;API+Architect;Cloud+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArpanC6&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ArpanC6?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Crafting High-Performance RESTful APIs
 
-```javascript
-const soumyadeep = {
-    location: "Airoli, Maharashtra, IN",
-    currentFocus: ["Full Stack Development", "Cloud Architecture", "DSA"],
-    learning: ["Advanced System Design", "Microservices", "DevOps"],
-    hobbies: ["Coding", "Reading Tech Blogs", "Open Source Contribution"],
-    funFact: "I debug code faster than I debug my life! 😄"
-};
-```
+> *"Code is poetry written in logic"* - Arpan Chakraborty
+
+💼 **Java Backend Developer in Progress** | Exploring Spring Boot, APIs & Databases  
+🎓 **B.Tech CSE Student**  
+📍 **Kolkata, India**  
+🌐 **Portfolio:** [arpanc.netlify.app](https://arpanc.netlify.app)  
+📧 **Email:** chakrabortyarpan151@gmail.com
 
 ---
 
@@ -28,58 +27,135 @@ const soumyadeep = {
 
 <div align="center">
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### 💻 Languages & Frameworks
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=hibernate" width="65" height="65" alt="Hibernate" />
+      <br>Hibernate
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kafka" width="65" height="65" alt="Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=maven" width="65" height="65" alt="Maven" />
+      <br>Maven
+    </td>
+  </tr>
+</table>
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend Development
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 🔧 Tools & Technologies
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+### 🎨 Frontend & Tools
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="IntelliJ IDEA" />
+      <br>IntelliJ IDEA
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="65" height="65" alt="Jenkins" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="Nginx" />
+      <br>Nginx
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=SoumyaEXE&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="180" />
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SoumyaEXE&theme=tokyonight&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpanC6&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaEXE&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
@@ -87,19 +163,7 @@ const soumyadeep = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=SoumyaEXE&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Soumyadeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SoumyaEXE&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -108,101 +172,68 @@ const soumyadeep = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SoumyaEXE&repo=YOUR_REPO_NAME_1&theme=tokyonight)](https://github.com/SoumyaEXE/YOUR_REPO_NAME_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SoumyaEXE&repo=YOUR_REPO_NAME_2&theme=tokyonight)](https://github.com/SoumyaEXE/YOUR_REPO_NAME_2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArpanC6&repo=Calculator-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/ArpanC6/Calculator-Project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArpanC6&repo=ArpanC6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/ArpanC6/ArpanC6)
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## 🌟 What I'm Currently Doing
 
-- 🔭 Working on building scalable microservices architecture
-- 🌱 Learning advanced cloud computing and system design
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about Java, Spring Boot, React, or Cloud technologies
-- ⚡ Fun fact: Coffee + Code = Magic ☕💻✨
+```java
+class ArpanChakraborty {
+    String currentFocus = "Building scalable microservices with Spring Boot";
+    String[] learning = {"Advanced Spring Security", "Kafka Streams", "Cloud Architecture"};
+    String[] hobbies = {"Coding", "Problem Solving", "Tech Blogging"};
+    
+    void getCurrentStatus() {
+        System.out.println("🔭 Working on RESTful API projects");
+        System.out.println("🌱 Deepening Spring Boot & Microservices knowledge");
+        System.out.println("👯 Looking to collaborate on open-source Java projects");
+        System.out.println("💬 Ask me about Java, Spring Boot, APIs, Databases");
+    }
+}
+```
 
 ---
 
 ## 📫 Connect With Me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soulsoumya1234@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://YOUR_PORTFOLIO_LINK)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-
-</div>
-
----
-
-## 💡 Quote of the Day
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- Coming Soon...
-<!-- YOUTUBE:END -->
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon...
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
----
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
-### ✍️ Today's Dev Wisdom
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakrabortyarpan151@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpan-chakraborty-63251227)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arpanc.netlify.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_a.r.p.a.n_)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arpantabla4994)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/share/174U3EPzvV)
 
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=72" />
+</div>
 
-### 📊 Profile Views
-
-![](https://komarev.com/ghpvc/?username=SoumyaEXE&color=blueviolet&style=for-the-badge)
-
-### 💖 Show some ❤️ by starring some of my repositories!
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/made-with-java.svg" />
+  <img src="https://forthebadge.com/images/badges/open-source.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</p>
 
 <div align="center">
   
-**"Code is poetry written in logic"** - *Soumyadeep Dey*
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+### 💙 Made with passion by Arpan Chakraborty
+### ⭐ Star my repositories if you find them helpful!
+### 🚀 Status: OPEN TO WORK
 
 </div>
