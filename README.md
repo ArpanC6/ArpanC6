@@ -15,7 +15,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00d9ff?style=for-the-badge&logoColor=white)](https://arpanc.netlify.app)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-ff6b6b?style=for-the-badge&logoColor=white)](mailto:chakrabortyarpan225@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-ff6b6b?style=for-the-badge&logoColor=white)](mailto:chakrabortyarpan151@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077b5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/arpan-chakraborty-63251227b/)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FArpanC6&label=Profile%20Views&labelColor=%231e293b&countColor=%2300d9ff&style=for-the-badge)
 
@@ -460,7 +460,7 @@ mindmap
 
 <br>
 
-<a href="mailto:chakrabortyarpan225@gmail.com">
+<a href="mailto:chakrabortyarpan151@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;&nbsp;
