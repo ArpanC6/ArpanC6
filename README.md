@@ -10,7 +10,31 @@
 
 <br><br>
 
-<!-- Profile Views Counter with Snake Animation -->
+<!-- Social Links -->
+<p>
+  <a href="mailto:chakrabortyarpan151@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/arpan-chakraborty-63251227">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://arpanc.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://instagram.com/_a.r.p.a.n_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://youtube.com/@arpantabla4994">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://facebook.com/share/174U3EPzvV">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+<br>
+
+<!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=ArpanC6&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 
 <br><br>
@@ -22,36 +46,16 @@
 ```java
 public class ArpanChakraborty implements BackendDeveloper {
     
-    private final String role = "Java Backend Developer";
-    private final String location = "Airoli, Maharashtra, India";
-    private final String[] expertise = {
-        "Microservices Architecture",
-        "RESTful API Design", 
-        "Database Optimization",
-        "Cloud Solutions"
-    };
+    private String role = "Java Backend Developer";
+    private String location = "Airoli, Maharashtra, India";
     
-    @Override
-    public void currentlyWorking() {
-        System.out.println("🔭 Building enterprise-grade Spring Boot applications");
-        System.out.println("🌱 Mastering Kafka Streams & Event-Driven Architecture");
-        System.out.println("☁️ Exploring AWS Cloud Services & DevOps practices");
-    }
-    
-    @Override
-    public Map<String, String> getTechStack() {
-        return Map.of(
-            "Backend", "Java, Spring Boot, Hibernate, JPA",
-            "Messaging", "Apache Kafka, Redis",
-            "Database", "MySQL, PostgreSQL",
-            "Cloud", "AWS (EC2, S3, Lambda, RDS)",
-            "DevOps", "Docker, Jenkins, Git, Maven"
-        );
+    public void currentStatus() {
+        System.out.println("🔭 Building scalable microservices with Spring Boot");
+        System.out.println("🌱 Exploring Kafka, AWS & Cloud Architecture");
+        System.out.println("💻 Passionate about clean code & system design");
     }
 }
 ```
-
-<br>
 
 ---
 
@@ -163,18 +167,9 @@ public class ArpanChakraborty implements BackendDeveloper {
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakrabortyarpan151@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpan-chakraborty-63251227)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://arpanc.netlify.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_a.r.p.a.n_)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arpantabla4994)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/share/174U3EPzvV)
-
-<br>
 
 **📧 Email:** chakrabortyarpan151@gmail.com  
 **🌐 Portfolio:** [arpanc.netlify.app](https://arpanc.netlify.app)  
