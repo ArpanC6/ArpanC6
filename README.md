@@ -121,21 +121,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/ArpanC6">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ff006e&icon_color=00d9ff&text_color=c9d1d9"/>
-  </a>
-  <a href="https://github.com/ArpanC6">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArpanC6&theme=radical&hide_border=true&background=0d1117&stroke=ff006e&ring=ff006e&fire=ffaa00&currStreakLabel=ff006e&sideLabels=00d9ff"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&icon_color=00d9ff&text_color=c9d1d9&cache_seconds=1800" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpanC6&theme=radical&hide_border=true&background=0d1117&stroke=ff006e&ring=ff006e&fire=ffaa00&currStreakLabel=ff006e" height="170px"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/ArpanC6">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&text_color=c9d1d9&langs_count=8"/>
-  </a>
-  <a href="https://github.com/ArpanC6">
-    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&custom_title=Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=ff006e&point=ffffff&hide_border=true&area=true"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="170px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&theme=github-compact&bg_color=0d1117&color=00d9ff&line=ff006e&point=ffffff&hide_border=true&area=true" height="170px"/>
 </div>
 
 ---
