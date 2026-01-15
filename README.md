@@ -4,13 +4,14 @@
 
 </div>
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,6&height=180&section=header&text=ARPAN%20CHAKRABORTY&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20Backend%20Developer%20|%20API%20Architect%20|%20Cloud%20Enthusiast&descAlignY=55&descSize=18" alt="Header"/>
-
-</div>
+<br>
 
 <div align="center">
+
+# ARPAN CHAKRABORTY
+### Java Backend Developer | API Architect | Cloud Enthusiast
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=80&lines=Crafting+High-Performance+RESTful+APIs;Building+Scalable+Backend+Systems;Optimizing+Database+%26+Cloud+Solutions" alt="Typing SVG" />
 
@@ -61,27 +62,27 @@ tech_stack:
 
 <table>
 <tr>
-<td align="center" width="96" style="border: 2px solid #00d9ff; border-radius: 10px; padding: 10px;">
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
 <br>Java
 </td>
-<td align="center" width="96" style="border: 2px solid #00d9ff; border-radius: 10px; padding: 10px;">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring Boot" />
 <br>Spring Boot
 </td>
-<td align="center" width="96" style="border: 2px solid #00d9ff; border-radius: 10px; padding: 10px;">
+<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
 <br>MySQL
 </td>
-<td align="center" width="96" style="border: 2px solid #00d9ff; border-radius: 10px; padding: 10px;">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" alt="PostgreSQL" />
 <br>PostgreSQL
 </td>
-<td align="center" width="96" style="border: 2px solid #00d9ff; border-radius: 10px; padding: 10px;">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=hibernate" width="55" height="55" alt="Hibernate" />
 <br>Hibernate
 </td>
-<td align="center" width="96" style="border: 2px solid #00d9ff; border-radius: 10px; padding: 10px;">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=kafka" width="55" height="55" alt="Kafka" />
 <br>Kafka
 </td>
@@ -151,9 +152,11 @@ tech_stack:
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ArpanC6&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" />
 </div>
 
+<br>
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&custom_title=Arpan%20Chakraborty's%20Contribution%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area_color=0D1117&area=true&hide_border=true" />
 </div>
 
 ---
@@ -230,7 +233,7 @@ mindmap
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,6&height=100&section=footer" width="100%"/>
 
 **💙 Made with passion by Arpan Chakraborty**
 
