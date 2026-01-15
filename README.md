@@ -1,6 +1,6 @@
 <div align="center">
 
-![Krishna Banner](https://i.pinimg.com/originals/80/c3/47/80c347463b02cbb7126ada3e8c7fc0a2.jpg)
+<img width="100%" src="https://raw.githubusercontent.com/ArpanC6/ArpanC6/main/krishna-banner.jpg" alt="Krishna Banner"/>
 
 </div>
 
@@ -118,26 +118,26 @@
 
 ---
 
-<h2 align="center">⚡ GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArpanC6&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)
+<img src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&icon_color=00d9ff&text_color=c9d1d9&ring_color=ff006e" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpanC6&theme=radical&hide_border=true&background=0d1117&stroke=ff006e&ring=ff006e&fire=ffaa00&currStreakLabel=ff006e&sideLabels=00d9ff&dates=c9d1d9" width="49%" alt="Streak Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff&langs_count=6)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff)
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&text_color=c9d1d9&langs_count=8" width="49%" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&custom_title=Arpan%20Chakraborty's%20Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=ff006e&point=ffffff&area_color=0d1117&area=true&hide_border=true" width="49%" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
 </div>
 
 ---
