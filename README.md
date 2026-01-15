@@ -87,10 +87,6 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
       <br>HTML5
     </td>
@@ -110,12 +106,12 @@
       <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
       <br>Docker
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
       <br>GitHub
@@ -135,6 +131,8 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="Nginx" />
       <br>Nginx
+    </td>
+    <td align="center" width="96">
     </td>
   </tr>
 </table>
@@ -181,20 +179,29 @@
 
 ## 🌟 What I'm Currently Doing
 
+<div align="center">
+
 ```java
-class ArpanChakraborty {
-    String currentFocus = "Building scalable microservices with Spring Boot";
-    String[] learning = {"Advanced Spring Security", "Kafka Streams", "Cloud Architecture"};
-    String[] hobbies = {"Coding", "Problem Solving", "Tech Blogging"};
+public class ArpanChakraborty {
     
-    void getCurrentStatus() {
+    private String currentFocus = "Building scalable microservices with Spring Boot";
+    private String[] learning = {"Advanced Spring Security", "Kafka Streams", "Cloud Architecture"};
+    private String[] hobbies = {"Coding", "Problem Solving", "Tech Blogging"};
+    
+    public void getCurrentStatus() {
         System.out.println("🔭 Working on RESTful API projects");
         System.out.println("🌱 Deepening Spring Boot & Microservices knowledge");
         System.out.println("👯 Looking to collaborate on open-source Java projects");
         System.out.println("💬 Ask me about Java, Spring Boot, APIs, Databases");
     }
+    
+    public String getMotivation() {
+        return "Turning coffee into code, one commit at a time! ☕";
+    }
 }
 ```
+
+</div>
 
 ---
 
@@ -223,17 +230,11 @@ class ArpanChakraborty {
 
 ---
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/made-with-java.svg" />
-  <img src="https://forthebadge.com/images/badges/open-source.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-</p>
-
 <div align="center">
   
 ### 💙 Made with passion by Arpan Chakraborty
 ### ⭐ Star my repositories if you find them helpful!
-### 🚀 Status: OPEN TO WORK
+
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-success?style=for-the-badge&logo=statuspal&logoColor=white" />
 
 </div>
