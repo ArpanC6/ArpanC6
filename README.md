@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Arpan Chakraborty
+# Arpan Chakraborty
 
 ### Java Backend Developer | DSA Enthusiast | B.Tech CSE Student
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   
@@ -20,17 +20,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <table align="center">
 <tr>
 <td width="50%">
 
-- 🔭 Currently working on **Java Console & JDBC Based Projects**
-- 🌱 Learning **Advanced DSA, System Design & Spring Boot**
-- 👯 Looking to collaborate on **Java Backend / Open Source Projects**
-- 💬 Ask me about **Java, OOPs, DSA, Spring Boot, Database Design**
-- 📫 Reach me: **chakrabortyarpan225@gmail.com**
+- 1) Currently working on **Java Console & JDBC Based Projects**
+- 2) Learning **Advanced DSA, System Design & Spring Boot**
+- 3) Looking to collaborate on **Java Backend / Open Source Projects**
+- 4) Ask me about **Java, OOPs, DSA, Spring Boot, Database Design**
+- 5) Reach me: **chakrabortyarpan225@gmail.com**
 
 </td>
 <td width="50%">
@@ -52,7 +52,7 @@ public class Developer {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -263,7 +263,7 @@ public class Developer {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20For%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 
-### Show some ❤️ by starring some of my repositories!
+### Show some ❤️ by starring some of my repositories..
 
 </div>
 
