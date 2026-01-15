@@ -118,48 +118,25 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
-  GitHub Performance
-</h2>
+<h2 align="center">⚡ GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpanC6&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=f85149&currStreakLabel=58a6ff" width="48%" />
+</p>
 
-<table>
-<tr>
-<td width="50%" align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&ring_color=bf91f3" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=6" width="100%" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ArpanC6&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffaa00&currStreakLabel=70a5fd&sideLabels=38bdae&currStreakNum=bf91f3&sideNums=38bdae" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArpanC6&theme=tokyonight&utcOffset=5.5" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9" width="48%" />
+</p>
 
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32px" alt="GitHub"> 
-  Achievements
-</h2>
+<h2 align="center">🏆 Achievements</h2>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=tokyonight&no-frame=true&no-bg=false&margin-w=3&margin-h=3&column=7&rank=-C,-?" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=onestar&no-frame=true&column=7&margin-w=10" width="95%" />
+</p>
 
 ---
 
