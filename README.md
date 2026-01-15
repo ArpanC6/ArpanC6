@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Solutions;Mastering+Data+Structures+%26+Algorithms;Passionate+About+Clean+Code;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=arpanc6&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
 </div>
 
 ---
@@ -69,8 +67,8 @@ public class Developer {
 <br>Java
 </td>
 <td align="center" width="96">
-<a href="https://spring.io/" target="_blank">
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Spring Boot" width="65" height="65" />
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="65" height="65" />
 </a>
 <br>Spring Boot
 </td>
@@ -81,16 +79,16 @@ public class Developer {
 <br>Python
 </td>
 <td align="center" width="96">
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="65" height="65" />
+</a>
+<br>C
+</td>
+<td align="center" width="96">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
 </a>
 <br>JavaScript
-</td>
-<td align="center" width="96">
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="65" height="65" />
-</a>
-<br>C/C++
 </td>
 </tr>
 </table>
@@ -106,11 +104,36 @@ public class Developer {
 <br>MySQL
 </td>
 <td align="center" width="96">
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="65" height="65" />
+</a>
+<br>MS SQL Server
+</td>
+<td align="center" width="96">
+<a href="https://redis.io" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="65" height="65" />
+</a>
+<br>Redis
+</td>
+<td align="center" width="96">
 <a href="https://aws.amazon.com" target="_blank">
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
 </a>
 <br>AWS
 </td>
+<td align="center" width="96">
+<a href="https://cloud.google.com" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="65" height="65" />
+</a>
+<br>GCP
+</td>
+</tr>
+</table>
+
+### Tools & DevOps
+
+<table>
+<tr>
 <td align="center" width="96">
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
@@ -118,41 +141,16 @@ public class Developer {
 <br>Docker
 </td>
 <td align="center" width="96">
-<a href="https://redis.io" target="_blank">
-<img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="Redis" width="65" height="65" />
-</a>
-<br>Redis
-</td>
-<td align="center" width="96">
-<a href="https://www.nginx.com" target="_blank">
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-</a>
-<br>Nginx
-</td>
-</tr>
-</table>
-
-### Tools & Technologies
-
-<table>
-<tr>
-<td align="center" width="96">
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="65" height="65" />
 </a>
-<br>Git/GitHub
+<br>Git
 </td>
 <td align="center" width="96">
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="65" height="65" />
+<a href="https://github.com" target="_blank">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 </a>
-<br>HTML5
-</td>
-<td align="center" width="96">
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="65" height="65" />
-</a>
-<br>CSS3
+<br>GitHub
 </td>
 <td align="center" width="96">
 <a href="https://www.jenkins.io" target="_blank">
@@ -161,10 +159,18 @@ public class Developer {
 <br>Jenkins
 </td>
 <td align="center" width="96">
-<a href="https://cloud.google.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="65" height="65" />
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="65" height="65" />
 </a>
-<br>GCP
+<br>HTML5
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="65" height="65" />
+</a>
+<br>CSS3
 </td>
 </tr>
 </table>
@@ -193,16 +199,12 @@ public class Developer {
 
 ---
 
-## 🎯 Coding Profiles
+## 🎯 LeetCode Stats
 
 <div align="center">
 
 <a href="https://leetcode.com/u/arpanc/">
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farpanc&logo=leetcode&logoColor=yellow" alt="LeetCode"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/chakrabortyarpa6">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+<img src="https://leetcard.jacoblin.cool/arpanc?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats"/>
 </a>
 
 </div>
@@ -256,10 +258,6 @@ public class Developer {
 ### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31l26lwkzbvnmhzldakurqb2pqji)
 
 ---
 
