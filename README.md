@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://i.pinimg.com/originals/80/c3/47/80c347463b02cbb7126ada3e8c7fc0a2.jpg" alt="Krishna Banner"/>
+<img width="100%" src="![a16bf61442a7e835f95c62d1d13cfc4a](https://github.com/user-attachments/assets/a3a82d06-f9fe-41bd-ba2b-7e81db5234e1)
+" alt="Krishna Banner"/>
 
 </div>
 
