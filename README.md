@@ -133,7 +133,7 @@ public class ArpanChakraborty implements BackendDeveloper {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/api?username=ArpanC6&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -144,6 +144,397 @@ public class ArpanChakraborty implements BackendDeveloper {
 
 [![Calculator Project](https://github-readme-stats.vercel.app/api/pin/?username=ArpanC6&repo=Calculator-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/ArpanC6/Calculator-Project)
 [![Profile Repository](https://github-readme-stats.vercel.app/api/pin/?username=ArpanC6&repo=ArpanC6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/ArpanC6/ArpanC6)
+
+</div>
+
+---
+
+## 🎯 Core Competencies
+
+<div align="center">
+
+### Backend Development
+```java
+@Service
+public class BackendExpertise {
+    
+    @Autowired
+    private List<Technology> techStack;
+    
+    public void showcaseSkills() {
+        // Core Java & Advanced Concepts
+        implementOOPPrinciples();
+        utilizeDesignPatterns();
+        handleMultithreading();
+        manageMemoryEfficiently();
+        
+        // Spring Boot Ecosystem
+        buildRESTfulAPIs();
+        implementSecurity();
+        manageTransactions();
+        optimizePerformance();
+    }
+    
+    private void implementOOPPrinciples() {
+        // Encapsulation, Inheritance, Polymorphism, Abstraction
+        log.info("Applying SOLID principles in design");
+    }
+    
+    private void utilizeDesignPatterns() {
+        // Singleton, Factory, Builder, Strategy, Observer
+        log.info("Implementing Gang of Four patterns");
+    }
+}
+```
+
+### Microservices Architecture
+```java
+@SpringBootApplication
+@EnableDiscoveryClient
+@EnableFeignClients
+public class MicroserviceApplication {
+    
+    public static void main(String[] args) {
+        SpringApplication.run(MicroserviceApplication.class, args);
+    }
+    
+    @Bean
+    public RestTemplate restTemplate() {
+        return new RestTemplate();
+    }
+    
+    // Service Discovery with Eureka
+    // API Gateway with Spring Cloud Gateway
+    // Circuit Breaker with Resilience4j
+    // Distributed Tracing with Sleuth & Zipkin
+    // Centralized Configuration with Config Server
+}
+```
+
+### Database Management
+```sql
+-- Advanced SQL Query Optimization
+SELECT 
+    u.user_id,
+    u.username,
+    COUNT(o.order_id) as total_orders,
+    SUM(o.total_amount) as revenue,
+    AVG(o.total_amount) as avg_order_value
+FROM users u
+LEFT JOIN orders o ON u.user_id = o.user_id
+WHERE u.created_at >= DATE_SUB(NOW(), INTERVAL 6 MONTH)
+GROUP BY u.user_id, u.username
+HAVING COUNT(o.order_id) > 5
+ORDER BY revenue DESC
+LIMIT 100;
+
+-- Index Optimization
+CREATE INDEX idx_user_orders ON orders(user_id, created_at);
+CREATE INDEX idx_order_status ON orders(status, created_at);
+
+-- Query Performance Analysis
+EXPLAIN ANALYZE
+SELECT * FROM orders WHERE status = 'COMPLETED';
+```
+
+### RESTful API Design
+```java
+@RestController
+@RequestMapping("/api/v1/users")
+@Validated
+public class UserController {
+    
+    @Autowired
+    private UserService userService;
+    
+    @GetMapping
+    public ResponseEntity<PagedResponse<UserDTO>> getAllUsers(
+            @RequestParam(defaultValue = "0") int page,
+            @RequestParam(defaultValue = "10") int size,
+            @RequestParam(defaultValue = "id") String sortBy) {
+        
+        PagedResponse<UserDTO> users = userService.getAllUsers(page, size, sortBy);
+        return ResponseEntity.ok(users);
+    }
+    
+    @PostMapping
+    @ResponseStatus(HttpStatus.CREATED)
+    public ResponseEntity<UserDTO> createUser(
+            @Valid @RequestBody UserCreateRequest request) {
+        
+        UserDTO user = userService.createUser(request);
+        URI location = ServletUriComponentsBuilder
+                .fromCurrentRequest()
+                .path("/{id}")
+                .buildAndExpand(user.getId())
+                .toUri();
+        
+        return ResponseEntity.created(location).body(user);
+    }
+    
+    @GetMapping("/{id}")
+    public ResponseEntity<UserDTO> getUserById(@PathVariable Long id) {
+        return userService.getUserById(id)
+                .map(ResponseEntity::ok)
+                .orElse(ResponseEntity.notFound().build());
+    }
+    
+    @PutMapping("/{id}")
+    public ResponseEntity<UserDTO> updateUser(
+            @PathVariable Long id,
+            @Valid @RequestBody UserUpdateRequest request) {
+        
+        UserDTO updated = userService.updateUser(id, request);
+        return ResponseEntity.ok(updated);
+    }
+    
+    @DeleteMapping("/{id}")
+    @ResponseStatus(HttpStatus.NO_CONTENT)
+    public ResponseEntity<Void> deleteUser(@PathVariable Long id) {
+        userService.deleteUser(id);
+        return ResponseEntity.noContent().build();
+    }
+}
+```
+
+### Exception Handling
+```java
+@ControllerAdvice
+@Slf4j
+public class GlobalExceptionHandler {
+    
+    @ExceptionHandler(ResourceNotFoundException.class)
+    public ResponseEntity<ErrorResponse> handleResourceNotFound(
+            ResourceNotFoundException ex) {
+        
+        ErrorResponse error = ErrorResponse.builder()
+                .timestamp(LocalDateTime.now())
+                .status(HttpStatus.NOT_FOUND.value())
+                .error("Resource Not Found")
+                .message(ex.getMessage())
+                .build();
+        
+        return ResponseEntity.status(HttpStatus.NOT_FOUND).body(error);
+    }
+    
+    @ExceptionHandler(MethodArgumentNotValidException.class)
+    public ResponseEntity<ErrorResponse> handleValidationErrors(
+            MethodArgumentNotValidException ex) {
+        
+        Map<String, String> errors = new HashMap<>();
+        ex.getBindingResult().getFieldErrors().forEach(error -> 
+            errors.put(error.getField(), error.getDefaultMessage())
+        );
+        
+        ErrorResponse error = ErrorResponse.builder()
+                .timestamp(LocalDateTime.now())
+                .status(HttpStatus.BAD_REQUEST.value())
+                .error("Validation Failed")
+                .message("Invalid input parameters")
+                .validationErrors(errors)
+                .build();
+        
+        return ResponseEntity.badRequest().body(error);
+    }
+}
+```
+
+### Apache Kafka Integration
+```java
+@Service
+@Slf4j
+public class KafkaProducerService {
+    
+    @Autowired
+    private KafkaTemplate<String, OrderEvent> kafkaTemplate;
+    
+    private static final String TOPIC = "order-events";
+    
+    public void publishOrderEvent(OrderEvent event) {
+        ListenableFuture<SendResult<String, OrderEvent>> future = 
+                kafkaTemplate.send(TOPIC, event.getOrderId(), event);
+        
+        future.addCallback(
+            result -> log.info("Published event: {}", event),
+            ex -> log.error("Failed to publish event: {}", event, ex)
+        );
+    }
+}
+
+@Service
+@Slf4j
+public class KafkaConsumerService {
+    
+    @KafkaListener(topics = "order-events", groupId = "order-service")
+    public void consumeOrderEvent(OrderEvent event) {
+        log.info("Received order event: {}", event);
+        processOrder(event);
+    }
+    
+    private void processOrder(OrderEvent event) {
+        // Business logic to process order
+        log.info("Processing order: {}", event.getOrderId());
+    }
+}
+```
+
+### Spring Security Configuration
+```java
+@Configuration
+@EnableWebSecurity
+@EnableGlobalMethodSecurity(prePostEnabled = true)
+public class SecurityConfig extends WebSecurityConfigurerAdapter {
+    
+    @Autowired
+    private JwtAuthenticationEntryPoint jwtEntryPoint;
+    
+    @Autowired
+    private JwtRequestFilter jwtFilter;
+    
+    @Override
+    protected void configure(HttpSecurity http) throws Exception {
+        http
+            .csrf().disable()
+            .authorizeRequests()
+                .antMatchers("/api/auth/**").permitAll()
+                .antMatchers("/api/public/**").permitAll()
+                .antMatchers(HttpMethod.GET, "/api/users/**").hasRole("USER")
+                .antMatchers("/api/admin/**").hasRole("ADMIN")
+                .anyRequest().authenticated()
+            .and()
+            .exceptionHandling()
+                .authenticationEntryPoint(jwtEntryPoint)
+            .and()
+            .sessionManagement()
+                .sessionCreationPolicy(SessionCreationPolicy.STATELESS);
+        
+        http.addFilterBefore(jwtFilter, UsernamePasswordAuthenticationFilter.class);
+    }
+    
+    @Bean
+    public PasswordEncoder passwordEncoder() {
+        return new BCryptPasswordEncoder();
+    }
+}
+```
+
+### Redis Caching
+```java
+@Service
+@Slf4j
+public class UserService {
+    
+    @Autowired
+    private UserRepository userRepository;
+    
+    @Cacheable(value = "users", key = "#id")
+    public Optional<User> getUserById(Long id) {
+        log.info("Fetching user from database: {}", id);
+        return userRepository.findById(id);
+    }
+    
+    @CachePut(value = "users", key = "#user.id")
+    public User updateUser(User user) {
+        log.info("Updating user and cache: {}", user.getId());
+        return userRepository.save(user);
+    }
+    
+    @CacheEvict(value = "users", key = "#id")
+    public void deleteUser(Long id) {
+        log.info("Deleting user and cache entry: {}", id);
+        userRepository.deleteById(id);
+    }
+    
+    @CacheEvict(value = "users", allEntries = true)
+    public void clearCache() {
+        log.info("Clearing all user cache entries");
+    }
+}
+```
+
+### Docker Configuration
+```dockerfile
+# Multi-stage Docker build for Spring Boot application
+FROM maven:3.8.4-openjdk-17 AS build
+WORKDIR /app
+COPY pom.xml .
+COPY src ./src
+RUN mvn clean package -DskipTests
+
+FROM openjdk:17-jdk-slim
+WORKDIR /app
+COPY --from=build /app/target/*.jar app.jar
+
+EXPOSE 8080
+
+ENV SPRING_PROFILES_ACTIVE=prod
+ENV JAVA_OPTS="-Xms512m -Xmx1024m"
+
+ENTRYPOINT ["java", "-jar", "app.jar"]
+```
+
+### Docker Compose
+```yaml
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://db:5432/mydb
+      - SPRING_REDIS_HOST=redis
+      - SPRING_KAFKA_BOOTSTRAP_SERVERS=kafka:9092
+    depends_on:
+      - db
+      - redis
+      - kafka
+    networks:
+      - app-network
+
+  db:
+    image: postgres:14
+    environment:
+      POSTGRES_DB: mydb
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    networks:
+      - app-network
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    networks:
+      - app-network
+
+  kafka:
+    image: confluentinc/cp-kafka:7.4.0
+    environment:
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
+    depends_on:
+      - zookeeper
+    networks:
+      - app-network
+
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.4.0
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+    networks:
+      - app-network
+
+volumes:
+  postgres-data:
+
+networks:
+  app-network:
+    driver: bridge
+```
 
 </div>
 
