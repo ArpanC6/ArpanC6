@@ -179,7 +179,7 @@ public class Developer {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -199,7 +199,7 @@ public class Developer {
 
 ---
 
-## 🎯 LeetCode Stats
+## LeetCode Stats
 
 <div align="center">
 
@@ -211,7 +211,7 @@ public class Developer {
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -243,7 +243,7 @@ public class Developer {
 
 ---
 
-## 📈 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
