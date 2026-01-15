@@ -1,6 +1,6 @@
 <div align="center">
 
-![Krishna Banner](https://i.pinimg.com/1200x/d1/fc/1b/d1fc1bcf08602ed12cc33e922199087e.jpg)
+![Krishna Banner](https://i.pinimg.com/originals/80/c3/47/80c347463b02cbb7126ada3e8c7fc0a2.jpg)
 
 </div>
 
