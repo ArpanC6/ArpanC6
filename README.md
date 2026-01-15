@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://i.pinimg.com/originals/ef/62/9d/ef629d8fbe0a373b930414958c658a8b.jpg" alt="Mahabharata Banner"/>
+<img width="100%" src="https://wallpapercave.com/wp/wp2508713.jpg" alt="Mahabharata Banner"/>
 
 </div>
 
@@ -23,33 +23,6 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FArpanC6&label=Profile%20Views&labelColor=%231e293b&countColor=%2300d9ff&style=for-the-badge)
 
 </div>
-
----
-
-<img align="right" width="360px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
-
-### 👨‍💻 About Me
-
-```yaml
-name: Arpan Chakraborty
-role: Java Backend Developer
-location: Kolkata, West Bengal, India 🇮🇳
-education: B.Tech in Computer Science Engineering
-
-current_work:
-  - Enterprise Spring Boot Applications
-  - RESTful API Development
-  - Microservices Architecture
-  - Database Design & Optimization
-
-tech_stack:
-  primary: [Java, Spring Boot, Hibernate]
-  databases: [MySQL, PostgreSQL]
-  cloud: [AWS, Apache Kafka]
-  tools: [Git, Maven, Postman, IntelliJ IDEA]
-```
-
-<br clear="right"/>
 
 ---
 
