@@ -1,12 +1,4 @@
-<div align="center">
 
-<img width="100%" src="https://i.pinimg.com/736x/ef/1b/a7/ef1ba7d654e42220e38dd56cfbc079ff.jpg" alt="Krishna Banner"/>
-
-</div>
-
-<br>
-
-<div align="center">
 
 # ARPAN CHAKRABORTY
 ### Java Backend Developer | API Architect | Cloud Enthusiast
