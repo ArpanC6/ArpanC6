@@ -174,7 +174,8 @@ public class Developer {
   
 <img src="https://github-readme-stats.vercel.app/api?username=arpanc6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" width="49%" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpanc6&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10" width="49%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ArpanC6&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10" width="49%" alt="GitHub Streak" />
+
 
 </div>
 
@@ -232,13 +233,6 @@ public class Developer {
 
 ---
 
-<!-- ## Contribution Snake -->
-
-<!-- <div align="center">
-
-<img src=https://raw.githubusercontent.com/ArpanC6/ArpanC6/output/github-contribution-grid-snake-dark.svg />
-
-</div> -->
 ## Contribution Snake
 
 <p align="center">
@@ -247,7 +241,6 @@ public class Developer {
 
 
 
----
 
 <div align="center">
 
