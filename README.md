@@ -236,7 +236,7 @@ public class Developer {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/arpanc6/arpanc6/output/github-contribution-grid-snake-dark.svg)
+<img src=https://raw.githubusercontent.com/ArpanC6/ArpanC6/output/github-contribution-grid-snake-dark.svg />
 
 </div>
 
