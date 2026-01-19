@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ## GitHub Trophies
 
