@@ -9,21 +9,6 @@
 </div>
 
 
-## GitHub Trophies
-
-<!-- <div align="center">
-  
- <img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=radical&no-frame=true&margin-w=15&row=2&column=4" />
- 
-</div> -->
-<!--## 🏆 GitHub Trophies -->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArpanC6&theme=onedark&cache_seconds=3600" />
-</p>
-
----
-
 ## About Me
 
 <table align="center">
