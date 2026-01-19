@@ -1,3 +1,5 @@
+![GitHub Streak](https://streak-stats.demolab.com?user=ArpanC6)
+
 <div align="center">
   
 # Arpan Chakraborty
