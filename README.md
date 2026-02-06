@@ -40,7 +40,7 @@ public class Developer {
 </tr>
 </table>
 
----
+
 
 ## Tech Stack
 
