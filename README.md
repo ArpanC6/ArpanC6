@@ -20,7 +20,7 @@
 2) Learning **Advanced DSA, System Design & Spring Boot**
 3) Looking to collaborate on **Java Backend / Open Source Projects**
 4) Ask me about **Java, OOPs, DSA, Spring Boot, Database Design**
-5) Reach me: **chakrabortyarpan225@gmail.com**
+5) Reach me: **chakrabortyarpan151@gmail.com**
 
 </td>
 <td width="50%">
