@@ -171,11 +171,33 @@ public class Developer {
 
 <img src="https://streak-stats.demolab.com?user=ArpanC6&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10" width="49%" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanc6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&langs_count=8" width="49%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanc6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&langs_count=8&hide=c%2B%2B" width="49%" alt="Top Languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpanc6&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&border_radius=10" width="100%" alt="Contribution Graph" />
 
 </div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arpanc6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## WakaTime Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArpanC6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&layout=compact" alt="WakaTime Stats"/>
+
+</div>
+
+> ⚠️ **WakaTime setup করতে হবে:** [wakatime.com](https://wakatime.com) এ account করো → IDE তে WakaTime extension install করো → GitHub Actions এ `WAKATIME_API_KEY` secret add করো
 
 ---
 
