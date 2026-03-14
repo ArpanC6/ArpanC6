@@ -179,28 +179,6 @@ public class Developer {
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arpanc6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## WakaTime Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArpanC6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&layout=compact" alt="WakaTime Stats"/>
-
-</div>
-
-> ⚠️ **WakaTime setup করতে হবে:** [wakatime.com](https://wakatime.com) এ account করো → IDE তে WakaTime extension install করো → GitHub Actions এ `WAKATIME_API_KEY` secret add করো
-
----
-
 ## LeetCode Stats
 
 <div align="center">
