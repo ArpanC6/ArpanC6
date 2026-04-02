@@ -19,7 +19,7 @@
 - 🔭 **GSoC 2026 Applicant** — Jenkins (jenkinsci/email-ext-plugin)
 - 🌱 **7 Merged PRs** & **24+ Code Reviews** in jenkinsci/email-ext-plugin
 - 🤝 Looking to collaborate on **Java Backend / Open Source Projects**
-- 💬 Ask me about **Java, Spring Boot, REST APIs, DSA, Database Design**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, Jenkins Plugin Dev**
 - 📫 Reach me: **chakrabortyarpan151@gmail.com**
 
 </td>
@@ -40,6 +40,38 @@ public class Developer {
 </td>
 </tr>
 </table>
+
+---
+
+## 🏆 Google Summer of Code 2026 — Jenkins
+
+<div align="center">
+
+![GSoC 2026](https://img.shields.io/badge/GSoC-2026%20Applicant-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-Contributor-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Merged PRs](https://img.shields.io/badge/Merged%20PRs-7-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+![Code Reviews](https://img.shields.io/badge/Code%20Reviews-24+-blue?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+**Organization:** Jenkins (jenkinsci) &nbsp;|&nbsp; **Plugin:** email-ext-plugin
+
+**Project:** Jenkins Email Notifications Using Outlook SMTP with OAuth 2.0
+
+> Implementing OAuth 2.0 Client Credentials Flow (RFC 6749) for Microsoft Exchange Online SMTP in the Jenkins email-ext-plugin — fixing real-world pipeline failures caused by Microsoft's deprecation of basic authentication in September 2025.
+
+| PR | Description | Status |
+|---|---|---|
+| [#1493](https://github.com/jenkinsci/email-ext-plugin/pull/1493) | Fix deprecated StringUtils.equals in MailAccount.java | ✅ Merged |
+| [#1494](https://github.com/jenkinsci/email-ext-plugin/pull/1494) | Replace deprecated ACL.SYSTEM with Jenkins.getAuthentication() | ✅ Merged |
+| [#1503](https://github.com/jenkinsci/email-ext-plugin/pull/1503) | Add missing @param Javadoc tags in UpstreamComitter | ✅ Merged |
+| [#1505](https://github.com/jenkinsci/email-ext-plugin/pull/1505) | Replace deprecated ACL.SYSTEM with ACL.SYSTEM2 | ✅ Merged |
+| [#1507](https://github.com/jenkinsci/email-ext-plugin/pull/1507) | Remove unused deprecated Util class | ✅ Merged |
+| [#1541](https://github.com/jenkinsci/email-ext-plugin/pull/1541) | Add unit tests for AbortedTrigger | ✅ Merged |
+| [#1550](https://github.com/jenkinsci/email-ext-plugin/pull/1550) | Extract SMTP property keys as named constants | ✅ Merged |
+| [#1553](https://github.com/jenkinsci/email-ext-plugin/pull/1553) | Fix: restore thread interrupt flag in renderTemplate() | 🔄 Open |
+
+**24+ community code reviews** — direct impact on 13 contributors across the Jenkins community
 
 ---
 
