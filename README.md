@@ -33,7 +33,7 @@ public class Developer {
 
 ## Tech Stack
 
-### Languages & Frameworks
+### Core Language
 
 <table>
 <tr>
@@ -41,21 +41,20 @@ public class Developer {
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
 <br>Java
 </td>
+</tr>
+</table>
+
+### Frameworks & ORM
+
+<table>
+<tr>
 <td align="center" width="96">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="65" height="65" />
 <br>Spring Boot
 </td>
 <td align="center" width="96">
 <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="65" height="65" />
-<br>Hibernate
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<br>JavaScript
+<br>Hibernate / JPA
 </td>
 </tr>
 </table>
@@ -83,7 +82,7 @@ public class Developer {
 </tr>
 </table>
 
-### Tools & DevOps
+### DevOps & Tools
 
 <table>
 <tr>
@@ -104,12 +103,8 @@ public class Developer {
 <br>GitHub
 </td>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="65" height="65" />
-<br>HTML5
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="65" height="65" />
-<br>CSS3
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" />
+<br>Postman
 </td>
 </tr>
 </table>
@@ -120,40 +115,12 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arpanc6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArpanC6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10&count_private=true" width="49%" alt="GitHub Stats" />
 
 <img src="https://streak-stats.demolab.com?user=ArpanC6&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10" width="49%" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanc6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&langs_count=8&hide=c%2B%2B" width="49%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanC6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&langs_count=6&hide=python,javascript,c%2B%2B,html,css" width="49%" alt="Top Languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpanc6&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&border_radius=10" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/arpan-chakraborty-63251227b" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:chakrabortyarpan151@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://github.com/ArpanC6" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.instagram.com/__a.r.p.a.n___" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="https://youtube.com/@arpantabla4994" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanC6&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&border_radius=10" width="100%" alt="Contribution Graph" />
 
 </div>
